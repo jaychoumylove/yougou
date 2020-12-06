@@ -1,0 +1,30 @@
+.top_content{ width:100%; border-bottom:#f73080 1px solid; padding-bottom:30px;padding-top:30px;}
+.top_content div{width:1200px; height:40px; line-height:40px; margin:0 auto;}
+.top_content div img{margin-left:60px;/* */vertical-align:middle;}
+.top_content div span{font-size:24px; text-align:center; margin-left:40px; height:28px; line-height:28px; vertical-align:middle;}
+.top_content div .l_login{ display:inline-block;font-size:18px; text-align:right; margin-right:20px; height:28px; line-height:28px; vertical-align:middle; margin-left:650px;}
+.l_main{ width:100%;}
+.l_main .m_content{ width:1200px; margin:0 auto;}
+.l_main .m_content form{ width:75%; margin:0 auto;}
+.l_main .m_content form ul{/* border:1px solid #333;*/ margin:30px; text-align:left;} 
+.l_main .m_content form ul li{ height:40px; line-height:40px;/* width:500px;*/ width:700px; margin-bottom:20px; margin-left:60px;}
+.l_main .m_content form ul li .t_info .ok{ color:#00FF00;}
+.l_main .m_content form ul li .t_info .no{ color:#FF0000;}
+.l_main .m_content form ul .sex{position:relative;}
+.l_main .m_content form ul .sex span{ width:40px; height:100%; background:#ccc; display:inline-block;}
+.l_main .m_content form ul .sex span img{padding-left:5px;padding-top:7px;vertical-align:middle; position:absolute; text-align:center;}
+.l_main .m_content form ul .sex label{ vertical-align:middle; padding-bottom:35px; cursor:pointer;}
+.l_main .m_content form ul .sex input{ margin-left:40px; height:40px; line-height:40px; width:40px;cursor:pointer;}
+.l_main .m_content form ul .user,.l_main .m_content form ul .paw,.l_main .m_content form ul .phone,.l_main .m_content form ul .e_mail,.l_main .m_content form ul .verification_code{position:relative; background:#ccc;}
+.l_main .m_content form ul .user img,.l_main .m_content form ul .paw img,.l_main .m_content form ul .phone img,.l_main .m_content form ul .e_mail img,.l_main .m_content form ul .verification_code img{ vertical-align:middle; position:absolute;padding-left:5px;padding-top:1px; }
+.l_main .m_content form ul .user input,.l_main .m_content form ul .paw input,.l_main .m_content form ul .phone input,.l_main .m_content form ul .e_mail input{vertical-align:middle;height:40px; line-height:40px; margin-left:40px; padding-left:15px; width:305px; border:none; background:#F5F5F5;}
+.l_main .m_content form ul .sure_register{ text-align:left; height:25px; line-height:25px; margin-left:80px;}
+.l_main .m_content form ul .verification_code input{ padding-left:15px;vertical-align:middle;height:40px; line-height:40px; margin-left:40px; width:245px; border:none; background:#F5F5F5;}
+.l_main .m_content form ul .verification_code .code{ position:absolute; right:340px; top:0px; width:50px;background:rgba(250,135,181,1.00); text-align:center; font-size:16px;}
+.l_main .m_content form ul .verification_code .code img{ margin-left:-80px;}
+.l_main .m_content form ul .button{ text-align:center;}
+.l_main .m_content form ul .button input{ border:none; width:360px; height:100%;background:#FA87B5; color:#FFFFFF; font-size:18px; line-height:100%;}
+.l_main .m_content form ul .button input:hover{background:#f73080}
+.l_main .m_content form ul li .t_info{ position:absolute; top:0; left:360px; background:#FFFFFF; padding-left:10px; width:340px; height:40px; line-height:40px; font-size:12px; color:#999999;}
+.foot{width:100%;/* background:#FFD2E6;*/background:#ffebf4; border-top:#f73080 1px solid;}
+.foot div{height:40px; line-height:40px; text-align:center; margin:0 auto;}

@@ -1,0 +1,93 @@
+.top{width:100%;}
+.top .top_link{background:#FFEFF5; width:100%;height:30px;}
+.top .top_link .link_content{/*border:1px #000000 solid;*/width:1200px;margin:0 auto;height:30px;line-height:30px;}
+.top .top_link .link_content .link_left{margin-left:20px; float:left;}
+.top .top_link .link_content .link_right{ margin-left:760px;}
+.top .top_link .link_content .link_right div{float:left;/*width:120px;*/ margin-left:10px;margin-right:10px;text-align:center; background:#FFEFF5; border:#FFDCEA 1 solid; position:relative;}
+.top .top_link .link_content .link_right div img{ vertical-align:middle;}
+.top .top_link .link_content .link_right div ul{/**/display:none;position:absolute;top:30px; left:0px; text-align:center;background:#FFEFF5;}
+.top .top_link .link_content .link_right .YG_lx{ position:relative;}
+.top .top_link .link_content .link_right div .YG_wc{/**/display:none;position:absolute; right:-22px; top:30px;}
+.top .top_menu{ background:#f73080; width:100%; height:90px;}
+.top .top_menu .menu{width:1200px;margin:0 auto;}
+.top .top_menu .menu .user{ float:left; line-height:90px; margin-left:40px; color:rgba(255,255,255,1.00); font-size:18px;}
+.top .top_menu .menu .user a img{ vertical-align:middle; margin-right:15px;}
+.top .top_menu .menu ul li{ float:left; line-height:90px; width:80px; text-align:center; margin-left:20px;}
+.top .top_menu .menu ul li a{ color:#FFFFFF; font-size:14px;}
+.top .top_menu .menu form{ line-height:90px; float:left; margin-left:60px;}
+.top .top_menu .menu form .search_inp{ border:none; background:#FFFFFF; height:30px; line-height:30px; padding-left:10px; width:300px;}
+.top .top_menu .menu form .search_sub{ border:none; background:url(../images/search_z.png); height:30px; line-height:30px;width:30px;}
+.top .top_menu .menu .u_S_cart{ float:left; line-height:90px; margin-left:20px; text-align:center; width:170px;}
+.top .top_menu .menu .u_S_cart a{ color:#f73080; font-size:14px; height:30px; line-height:30px; width:120px; display:inline-block; background:rgba(255,255,255,1.00); cursor:pointer;}
+.top .top_menu .menu .u_S_cart a img{ vertical-align:middle; margin-right:10px;}
+.u_content{ width:1200px; margin:0 auto;}
+.u_content .con_left{ margin-left:40px; line-height:40px; background:rgba(239,239,239,1.00); width:160px; text-align:center; float:left;}
+.u_content .con_left h1{ border:1px solid #CCCCCC; font-size:16px;}
+.u_content .con_left h1 img{ vertical-align:middle; margin-right:10px;}
+.u_content .con_left .hover{ background:rgba(255,255,255,1.00);}
+.u_content .con_left h1:hover,.u_content .con_left ul li:hover{ background:rgba(255,255,255,1.00);}
+.u_content .con_left ul li{ border:1px solid #CCCCCC;font-size:14px;}
+.u_content .con_right{ float:left; width:980px; margin-left:20px;}
+.u_content .con_right .o_infoBox{ width:100%; position:relative;}
+.u_content .con_right .o_infoBox h1{ font-size:16px;color:rgba(255,1,95,1.00); padding-left:10px;}
+.u_content .con_right .o_infoBox .ord_number{ width:100%; background:rgba(243,243,243,1.00); height:40px; line-height:40px;}
+.u_content .con_right .o_infoBox .ord_number p{margin-left:40px;}
+.u_content .con_right .o_infoBox .ord_number p span{ font-size:14px; color:#F3005A;}
+.u_content .con_right .o_infoBox .ord_number p .cz_dd{ color:rgba(238,4,106,1.00); position:absolute; right:10px; font-size:14px; top:20px;}
+.u_content .con_right .o_infoBox .ord_info{ width:100%; /*border:1px solid rgba(94,207,221,1.00);*/}
+.u_content .con_right .o_infoBox .ord_info h1{ font-weight:600; font-size:14px; margin-bottom:10px;}
+.u_content .con_right .o_infoBox .ord_info .c_info{ line-height:25px; position:relative; margin-bottom:10px;}
+.u_content .con_right .o_infoBox .ord_info .c_info p{margin-left:20px;}
+.u_content .con_right .o_infoBox .ord_info .c_info p span{ position:absolute; right:90%;}
+.u_content .con_right .o_infoBox .ord_info .c_info p strong{/* position:absolute; left:80%;*/ text-align:left; margin-left:80px;}
+.u_content .con_right .o_infoBox .ord_info .p_s_ment{ line-height:25px; margin-bottom:10px;}
+.u_content .con_right .o_infoBox .ord_info .p_s_ment p{ margin-left:40px;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table{ width:100%;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table thead tr{ background:#f73080; height:30px; line-height:30px;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table thead tr th{ text-align:center; color:#FFFFFF; font-size:14px;}
+.prt_box{width:620px;}
+.prt_box a{ float:left; height:120px;}
+.pre_box{width:90px;}
+.many_box{width:140px;}
+.trading_sta{width:130px;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .tr_h_sp{ border:none;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .order_top{ height:30px; line-height:30px; background:#FFD4E7;  width:980px;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .order_top td{ height:30px; line-height:30px; text-align:left; padding-left:20px;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .u_order_info{ border:1px solid #FFD4E7;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .u_order_info .prt_box{overflow:hidden;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .u_order_info .prt_box a{display:inline-block;height:120px;  font-size:14px; text-align:left; vertical-align:middle; line-height:30px;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .u_order_info .prt_box a img{ vertical-align:middle; margin:20px; float:left;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .u_order_info .prt_box a ul{ float:left; margin-top:20px;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .u_order_info .prt_box a ul li{width:260px; font-size:14px; line-height:20px; margin-bottom:20px;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .u_order_info .many_box{height:20px; text-align:center; margin:auto 0;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .u_order_info .many_box a{ display:inline-block; width:20px; height:20px; line-height:20px; border:1px solid #CCCCCC;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .u_order_info .many_box{text-align:center;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .u_order_info .trading_sta span{line-height:25px; display:inline-block; height:25px; font-size:14px; color:#F70E65; width:90px; cursor:pointer;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .u_order_info .trading_sta span:hover{ color:rgba(255,255,255,1.00); background:#F70E65}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody tr td{ text-align:center;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .com_info{ height:120px; border-top:none;border: 1px solid #FFD4E7;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .com_info td p{ line-height:20px; text-align:left; padding:10px;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .com_info td .top{ width:100%; height:30px; line-height:30px;}
+.u_content .con_right .o_infoBox .ord_info .lis_goods table tbody .com_info td .top img{ vertical-align:middle;}
+.u_content .con_right .o_infoBox .ord_info .A_combined{ margin-top:10px; position:relative; width:100%;}
+.u_content .con_right .o_infoBox .ord_info .A_combined p{ font-size:14px; line-height:25px; height:25px; text-align:right;}
+.u_content .con_right .o_infoBox .ord_info .A_combined p span{ position:absolute; right:10%;}
+.u_content .con_right .o_infoBox .ord_info .A_combined p strong{ color:rgba(255,20,107,1.00); font-size:16px;}
+.u_content .con_right .G_y_l{ width:100%;}
+.u_content .con_right .G_y_l h1{ margin-bottom:0px; margin-left:0px; text-align:left; background:#f73080; height:30px; line-height:30px; color:#fff; font-size:16px; padding-left:20px;}
+.u_content .con_right .G_y_l dl{ width:224px;margin:10px 5px 0 5px; position:relative; float:left; overflow:hidden;}
+.u_content .con_right .G_y_l dl a dd{height:40px; line-height:20px;}
+.u_content .con_right .G_y_l dl a .pay_for{height:40px; line-height:40px; font-size:18px; color:#f73080}
+.u_content .con_right .G_y_l dl a .pay_for span{position:absolute;left:120px; font-size:14px; color:#999999;}
+.u_content .con_right .G_y_l dl a .pay_for span strong{ font-size:16px;color:#f73080}
+.u_content .con_right .G_y_l dl a .jn_SC{position:absolute;bottom:-40px;left:120px;height:40px; line-height:40px; margin:0 auto;width:90px;font-size:16px;background:#f73080;color:#FFFFFF; text-align:center;}
+.foot{width:100%;margin:0 auto;text-align:center; float:left;}
+.foot .foot_con{width:100%;background:#ffebf4;}
+.foot .foot_con .foot_1{height:140px; width:1200px; margin:0 auto;}
+.foot .foot_con .foot_1 .li_01{float:left; text-align:center; width:200px; padding-top:20px;}
+.foot .foot_con .foot_1 .li_01 ul .li_001{font-size:14px;}
+.foot .foot_con .foot_1 .li_01 ul .li_002{background:url(../images/lxYG.png) no-repeat;width:100px;height:25px; line-height:25px;margin:0 auto;}
+.foot .foot_con .foot_1 .li_01 ul .li_002 a{color:#FFF; text-align:center;}
+.foot .foot_con .foot_1 .li_01 ul .li_002 img{/* margin-right:10px; margin-top:6px;*/ vertical-align:middle;}
+.foot .foot_con .foot_1 .li_01 ul li{height:20px; line-height:20px;}
+.foot .foot_2 a{ display:inline-block; margin-left:15px; margin-right:15px;}

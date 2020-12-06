@@ -1,0 +1,20 @@
+.top_content{ width:100%; border-bottom:#f73080 1px solid; padding-bottom:30px;padding-top:30px;}
+.top_content div{width:1200px; height:40px; line-height:40px; margin:0 auto;}
+.top_content div img{margin-left:60px;/* */vertical-align:middle;}
+.top_content div span{font-size:24px; text-align:center; margin-left:40px; height:28px; line-height:28px; vertical-align:middle;}
+.l_main{ width:100%; background:url(../images/login_1.jpg) center center no-repeat; height:500px; margin:0 auto;}
+.l_main div{ width:1200px; height:100%; position:relative; margin:0 auto;}
+.l_main div form{position:absolute; right:0px; top:120px; width:300px; background:#fff;}
+.l_main div form ul{ margin-bottom:10px; margin-left:20px; margin-right:20px;}
+.l_main div form ul h1{ text-align:center; height:40px; line-height:40px; font-size:18px; color:#f73080; margin-bottom:10px;}
+.l_main div form ul li{ margin-bottom:10px; height:38px; line-height:38px; text-align:center; width:260px; font-size:14px;}
+.l_main div form ul .t_ifm{color:rgba(255,0,4,1.00); display:none;/* */height:25px; line-height:25px; font:14px;}
+.l_main div form ul .user,.l_main div form ul .paw{ background:rgba(236,236,236,1.00); position:relative;}
+.l_main div form ul .user input,.l_main div form ul .paw input{ vertical-align:middle;height:38px; line-height:38px; margin-left:40px; background:#F5F5F5; width:220px; border:none;}
+.l_main div form ul .user img,.l_main div form ul .paw img{/* vertical-align:middle;*/ position:absolute;padding-left:5px;padding-top:1px;}
+.l_main div form ul .remember_register span{margin-left:0px; margin-right:20px; }
+.l_main div form ul .remember_register a{margin-left:30px;margin-right:0px;}
+.l_main div form ul .button input{ border:none; width:100%; height:100%;background:#FA87B5; color:#FFFFFF; font-size:18px; line-height:100%;}
+.l_main div form ul .button input:hover{background:#f73080}
+.foot{width:100%;/* background:#FFD2E6;*/background:#ffebf4; border-top:#f73080 1px solid;}
+.foot div{height:40px; line-height:40px; text-align:center; margin:0 auto;}
